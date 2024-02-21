@@ -292,7 +292,7 @@
 		"lodash": "^4.17.20",
 		"microbundle": "^0.15.1",
 		"mocha": "^8.2.1",
-		"npm-merge-driver-install": "^1.1.1",
+		"npm-merge-driver-install": "^3.0.0",
 		"npm-run-all": "^4.0.0",
 		"preact-render-to-string": "^5.2.5",
 		"prettier": "^1.18.2",
